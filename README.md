@@ -1,5 +1,5 @@
 * :man_student: Formada em Gestão de TI pela Universidade Paulista.
-* :woman_technologist:	Trabalha atualmente como Analista de Suporte em TI.
+* :woman_technologist:	Trabalha atualmente como Analista de Desenvolvimento Júnior.
 * 🌱 Estudando linguagem de programação Java.
 
 <div align="center">
