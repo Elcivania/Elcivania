@@ -1,6 +1,6 @@
 * :man_student: Formada em Gestão de TI pela Universidade Paulista.
 * :woman_technologist:	Trabalha atualmente como Analista de Desenvolvimento Júnior.
-* 🌱 Estudando linguagem de programação Java.
+* 🌱 Estudando.
 
 <div align="center">
   <a href="https://github.com/Elcivania">
